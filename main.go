@@ -14,6 +14,8 @@ import (
 )
 
 func main() {
+
+	print("RUNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN")
 	// Definir tamaños de las matrices
 	sizes := []int{2, 4, 8, 16, 32, 64, 128, 256}
 
